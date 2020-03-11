@@ -12,7 +12,7 @@
 
     add_image_size( 'square-small', 150, 150, true ); 
     add_image_size( 'square-medium', 350, 350, true ); 
-    add_image_size( 'square-big', 600, 600, true ); 
+    add_image_size( 'square-big', 500, 500, true ); 
     add_image_size( 'size-featured', 1050, 350, true ); 
     add_image_size( 'size-important', 600, 350, true ); 
 
